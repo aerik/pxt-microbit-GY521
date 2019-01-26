@@ -1,5 +1,9 @@
 namespace microbit_GY521 {
     /**
+     * initialize
+     */
+    export function initialize() { return }
+    /**
      * Calibrates each sensor from a series of readings
      */
     //% shim=microbit_GY521::calibrate_Sensors    
